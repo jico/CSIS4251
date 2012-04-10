@@ -9,7 +9,7 @@ All assignments are written in Ruby. Tested on _Ruby 1.8.7_.
 
 ## Programs
 
-* [RbTree](https://github.com/jico/CSIS4251/tree/master/PA2)
+* [RbTree](https://github.com/jico/CSIS4251/tree/master/PA1-2)
   A simple Ruby arithmetic expression to binary tree converter and evaluator.
 * [memv](https://github.com/jico/CSIS4251/tree/master/PA3)
   Virtual memory manager simulator.
