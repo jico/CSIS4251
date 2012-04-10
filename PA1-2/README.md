@@ -1,4 +1,4 @@
-# RExpression
+# RbTree
 A simple Ruby arithmetic expression to binary tree converter and evaluator.
 Supports Ruby 1.8.7.
 
